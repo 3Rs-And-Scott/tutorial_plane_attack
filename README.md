@@ -1,7 +1,8 @@
 # tutorial_plane_attack
 
 This is the result of following a [love2d tutorial](http://osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3). You can fly a plane around and shoot down other planes. This was used as a learning example for myself and children.
-![image](https://cloud.githubusercontent.com/assets/6902485/22765220/b74cb1d0-ee34-11e6-9523-cf92bad40fbb.png)
+
+<img src="https://cloud.githubusercontent.com/assets/6902485/22765220/b74cb1d0-ee34-11e6-9523-cf92bad40fbb.png" width="450">
 
 
 Controls
